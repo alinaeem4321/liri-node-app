@@ -1,0 +1,174 @@
+-----OMDB Log Entry Start-----
+
+Processed on:
+Fri May 04 2018 21:34:55 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\naeem\onedrive\desktop\liri-node-app\liri.js,movie-this,Lion,King
+
+Data Output: 
+
+Movie Title: The Lion King
+Year: 1994
+IMDB rating: 8.5
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame, Jim Cummings
+
+-----OMDB Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Fri May 04 2018 21:45:56 GMT-0500 (Central Daylight Time)
+
+terminal commands: 
+C:\Program Files\nodejs\node.exe,C:\Users\naeem\onedrive\desktop\liri-node-app\liri.js,my-tweets
+
+Data Output: 
+
+1. Tweet: Naeem's Tweet No. 15 for liri-bot homework
+Tweeted on: Fri May 04 08:18:11 +0000 2018
+
+2. Tweet: Naeem's Tweet No. 14 for liri-bot homework
+Tweeted on: Fri May 04 08:17:57 +0000 2018
+
+3. Tweet: Naeem's Tweet No. 13 for liri-bot homework
+Tweeted on: Fri May 04 08:17:48 +0000 2018
+
+4. Tweet: Naeem's Tweet No. 12 for liri-bot homework
+Tweeted on: Fri May 04 08:17:34 +0000 2018
+
+5. Tweet: Naeem's Tweet No. 11 for liri-bot homework
+Tweeted on: Fri May 04 08:17:25 +0000 2018
+
+6. Tweet: Naeem's Tweet No. 10 for liri-bot homework
+Tweeted on: Fri May 04 08:17:13 +0000 2018
+
+7. Tweet: Naeem's Tweet No. 9 for liri-bot homework
+Tweeted on: Fri May 04 08:17:01 +0000 2018
+
+8. Tweet: Naeem tweet # 8 for liri bot homework
+Tweeted on: Fri May 04 08:15:55 +0000 2018
+
+9. Tweet: Naeem Learning how to use tweeter
+Tweeted on: Fri May 04 07:56:55 +0000 2018
+
+10. Tweet: Learning how to use Twitter! for homework assignment.-6
+Tweeted on: Fri May 04 05:41:36 +0000 2018
+
+11. Tweet: Learning how to use Twitter! for homework assignment.5
+Tweeted on: Fri May 04 05:41:28 +0000 2018
+
+13. Tweet: Learning how to use Twitter! for homework assignment.-2
+Tweeted on: Fri May 04 05:41:09 +0000 2018
+
+14. Tweet: Learning how to use Twitter! for homework assignment.-1
+Tweeted on: Fri May 04 05:41:00 +0000 2018
+
+12. Tweet: Learning how to use Twitter! for homework assignment.-3
+Tweeted on: Fri May 04 05:41:18 +0000 2018
+
+15. Tweet: Learning how to use Twitter! for homework assignment.
+Tweeted on: Fri May 04 05:39:02 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Fri May 04 2018 21:48:04 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\naeem\onedrive\desktop\liri-node-app\liri.js,spotify-this-song
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Ace of Base
+Song title: The Sign
+Album name: The Sign (US Album) [Remastered]
+URL Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=09b3839d56e54da2927dd2af21ff851b
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Fri May 04 2018 21:55:36 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\naeem\onedrive\desktop\liri-node-app\liri.js,spotify-this-song,3,love
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Khalid
+Song title: Love Lies (with Normani)
+Album name: Love Lies (with Normani)
+URL Preview: https://p.scdn.co/mp3-preview/d53d5678b946219bd6df0b3d04ce0b3554f167d4?cid=09b3839d56e54da2927dd2af21ff851b
+=============================
+
+========= Result 2 =========
+Artist: Sean Paul
+Song title: Mad Love
+Album name: Mad Love
+URL Preview: null
+=============================
+
+========= Result 3 =========
+Artist: Kendrick Lamar
+Song title: LOVE. FEAT. ZACARI.
+Album name: DAMN.
+URL Preview: null
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Fri May 04 2018 21:57:34 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\naeem\onedrive\desktop\liri-node-app\liri.js,spotify-this-song,3,love
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Khalid
+Song title: Love Lies (with Normani)
+Album name: Love Lies (with Normani)
+URL Preview: https://p.scdn.co/mp3-preview/d53d5678b946219bd6df0b3d04ce0b3554f167d4?cid=09b3839d56e54da2927dd2af21ff851b
+=============================
+
+========= Result 3 =========
+Artist: Kendrick Lamar
+Song title: LOVE. FEAT. ZACARI.
+Album name: DAMN.
+URL Preview: null
+=============================
+
+========= Result 2 =========
+Artist: Sean Paul
+Song title: Mad Love
+Album name: Mad Love
+URL Preview: null
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Fri May 04 2018 21:57:44 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\naeem\onedrive\desktop\liri-node-app\liri.js,do-what-it-says
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album name: The Hits--Chapter One
+URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=09b3839d56e54da2927dd2af21ff851b
+=============================
+-----Spotify Log Entry End-----
+
